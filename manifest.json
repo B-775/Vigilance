@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Vigilence",
+  "version": "1.4",
+  "homepage_url": "https://github.com/B-775/Vigilence/upload/main",
+  "description": "Vigilence est une extention ayant pour but d'aider les utilisateur à detecter des sites frauduleux",
+  "icons": {
+    "128": "logo.png"
+  },
+ 
+  "permissions": [
+    "activeTab",
+    "contextMenus",
+    "background"
+  ],
+
+  "action": {
+    "default_icon": "logo.png",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

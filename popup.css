@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    padding: 10px;
+    border-radius: 15px;
+  }
+
+  #displayArea, #quizArea, #scanArea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+
+   #creditsArea, #visuArea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    display: none;
+  }
+
+  #visuButton, #nightModeButton, #creditsButton, #checkButton {
+    background-color: #ff4800;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+
+  body.night-mode {
+    color: white; /* Couleur de texte en mode nuit */
+    background-color: black; /* Couleur de fond en mode nuit */
+  }
+
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin-bottom: 10px;
+  }
+  .logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+
+  #version-container, #version {
+      font-size: 0.75rem;
+    }

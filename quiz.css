@@ -1,0 +1,104 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f3f3;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#quiz {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 400px;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0 0 20px;
+  color: #333;
+}
+
+#question {
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+#submit {
+  background-color: #ff4800;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#result {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #ff4800;
+}
+
+#prevButton,
+#nextButton, #submitButton, #restartButton {
+  background-color: #ff4800;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+#buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+#restartButton {
+  justify-content: center;
+}
+
+#submitRestartButtons {
+  flex-grow: 1;
+  text-align: center;
+}
+
+#submitButton, #nextButton {
+  margin-right: 0;
+}
+
+#progressBarContainer {
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 10px;
+  margin-top: 10px;
+}
+
+#progressBar {
+  height: 100%;
+  width: 0;
+  background-color: #ff4800;
+  border-radius: 8px;
+  transition: width 0.3s ease-in-out;
+}

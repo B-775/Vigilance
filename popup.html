@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Nom de Domaine</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="header">
+    <img src="logo.png" alt="Logo" width="48" height="48">
+    <h1>Vigilence</h1>
+  </div>
+  <div id="displayArea" style="text-align: center;">
+    <p>Vous visitez actuelement une page enregistré sur le nom de domaine : ...</p>
+  </div>
+  <div id="scanArea" style="text-align: center;"> 
+    <p>Vous souhaitez plus d'informations</p>
+    <button id="checkButton">Scan</button>
+  </div>
+  <div id="quizArea" style="text-align: center;">
+    <p>Teste tes compétences! </p>
+    <a href="quiz.html" target="_blank">Commencer le quiz</a>
+  </div>
+  
+  <button id="visuButton">Cache</button>
+  <button id="nightModeButton">Mode Nuit</button>
+  <button id="creditsButton">Crédits</button>
+
+    <!-- Zone de crédits cachée -->
+    <div id="creditsArea">
+      <h2>Crédits</h2>
+      <p>Vigilence est une extention ayant pour but d'aider les utilisateur à detecter des sites frauduleux</p>
+    </div>
+
+     <!-- Zone de visualisation cachée -->
+     <div id="visuArea">
+      <h2>Visualisation</h2>
+      <p>Vous pouvez visualiser un lien sans acceder au site. Pour ce faire, vous devez faire un clique gauche et cliquer sur l'option "Visualisation". </p>
+    </div>
+
+    <div id="version-container" role="button" style="text-align: center;">
+      <p>Version: 
+      <a
+        id="version"
+        href="https://github.com/B-775/Vigilence/upload/releases"
+        target="_blank"
+        title="Voir les notes de mise à jour"
+        >?</a>
+      </p>
+    </div>
+
+
+  <script src="popup.js"charset="UTF-8"></script>
+
+</body>
+</html>
