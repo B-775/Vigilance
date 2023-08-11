@@ -2,7 +2,9 @@
 
 ![Vigilence](logo.png)
 
-> Une extension pour navigateur dédiée à la lutte contre les attaques de phishing en ligne.
+>Vigilence est une extention pour navigateur dédiée à la lutte contre les attaques de phishing en ligne.
+>Son but est d'aider les utilisateur à detecter des sites frauduleux et de les sensibiliser sur les bonnes pratiques à suivre.
+> 
 
 ## Table des matières
 
