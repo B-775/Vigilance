@@ -36,11 +36,11 @@ Une fois installée, l'extension travaille en arrière-plan pour protéger vos a
 
 ## Contribution
 
-Si vous souhaitez contribuer à l'amélioration de **Vigilence**, n'hésitez pas à soumettre des problèmes (issues) et des demandes de fusion (pull requests) sur notre [dépôt GitHub](lien_vers_le_dépôt). Votre contribution nous aidera à rendre Internet plus sûr pour tous.
+Si vous souhaitez contribuer à l'amélioration de **Vigilence**, n'hésitez pas à soumettre des problèmes (issues) et des demandes de fusion (pull requests) sur notre [dépôt GitHub]([lien_vers_le_dépôt](https://github.com/B-775/Vigilence/issues)). Votre contribution nous aidera à rendre Internet plus sûr pour tous.
 
 ## Licence
 
 **Vigilence** est distribué sous la licence [Apache](LICENSE), ce qui signifie que vous êtes libre de l'utiliser, de le modifier et de le distribuer conformément aux termes de cette licence.
 
 ---
-Developpeur: B7
+Developpeur: @B7
