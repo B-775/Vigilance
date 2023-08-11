@@ -17,7 +17,7 @@
 
 **Vigilence** est une extension de navigateur conçue pour protéger les utilisateurs contre les attaques de phishing en ligne. Elle permet de surveiller les URLs que vous visitez et d'examiner des liens à l'aide du cache de google. Cette extension vous aide à garder une bonne hygiène cyber grâce ses fonctionnalitées et son quiz intégré.
 
-![Capture d'écran de l'extension en action](Vigilence main.png)
+![Capture d'écran de l'extension en action](Vigilence_main.png)
 
 ## Installation
 
