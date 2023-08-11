@@ -1,8 +1,8 @@
-# Vigilence
+# Vigilance
 
-![Vigilence](logo.png)
+![Vigilance](logo.png)
 
->Vigilence est une extention pour navigateur dédiée à la lutte contre les attaques de phishing en ligne.
+>Vigilance est une extention pour navigateur dédiée à la lutte contre les attaques de phishing en ligne.
 >Son but est d'aider les utilisateur à detecter des sites frauduleux et de les sensibiliser sur les bonnes pratiques à suivre.
 > 
 
@@ -17,13 +17,13 @@
 
 ## Aperçu
 
-**Vigilence** est une extension de navigateur conçue pour protéger les utilisateurs contre les attaques de phishing en ligne. Elle permet de surveiller les URLs que vous visitez et d'examiner des liens à l'aide du cache de google. Cette extension vous aide à garder une bonne hygiène cyber grâce ses fonctionnalitées et son quiz intégré.
+**Vigilance** est une extension de navigateur conçue pour protéger les utilisateurs contre les attaques de phishing en ligne. Elle permet de surveiller les URLs que vous visitez et d'examiner des liens à l'aide du cache de google. Cette extension vous aide à garder une bonne hygiène cyber grâce ses fonctionnalitées et son quiz intégré.
 
-![Capture d'écran de l'extension en action](Vigilence_main.png)
+![Capture d'écran de l'extension en action](Vigilance_main.png)
 
 ## Installation
 
-Vous pouvez installer l'extension **Vigilence** en suivant ces étapes simples :
+Vous pouvez installer l'extension **Vigilance** en suivant ces étapes simples :
 
 #### Mode d'Emploi : Installation d'une Extension Chrome Empaquetée (.crx) depuis GitHub
 
@@ -113,11 +113,11 @@ Une fois installée, l'extension travaille en arrière-plan pour protéger vos a
 
 ## Contribution
 
-Si vous souhaitez contribuer à l'amélioration de **Vigilence**, n'hésitez pas à soumettre des problèmes (issues) et des demandes de fusion (pull requests) sur notre [dépôt GitHub]([lien_vers_le_dépôt](https://github.com/B-775/Vigilence/issues)). Votre contribution nous aidera à rendre Internet plus sûr pour tous.
+Si vous souhaitez contribuer à l'amélioration de **Vigilance**, n'hésitez pas à soumettre des problèmes (issues) et des demandes de fusion (pull requests) sur notre [dépôt GitHub]([lien_vers_le_dépôt](https://github.com/B-775/Vigilance/issues)). Votre contribution nous aidera à rendre Internet plus sûr pour tous.
 
 ## Licence
 
-**Vigilence** est distribué sous la licence [Apache](LICENSE), ce qui signifie que vous êtes libre de l'utiliser, de le modifier et de le distribuer conformément aux termes de cette licence.
+**Vigilance** est distribué sous la licence [Apache](LICENSE), ce qui signifie que vous êtes libre de l'utiliser, de le modifier et de le distribuer conformément aux termes de cette licence.
 
 ---
 Developpeur: @B7
