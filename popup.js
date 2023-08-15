@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Affiche le nom de domaine dans la popup
     domainSpan.style.fontSize = "18px";
     domainSpan.textContent = domain;
-    domainDisplayElement.textContent = "Le nom de domaine est : ";
+    domainDisplayElement.textContent = "Vous consultez la page : ";
     domainDisplayElement.appendChild(domainSpan);
     // Gestion du mode nuit
     nightModeButton.addEventListener("click", function () {

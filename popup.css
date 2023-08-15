@@ -48,3 +48,7 @@ body {
   #version-container, #version {
       font-size: 0.75rem;
     }
+
+    a {
+      color: #ff4800;
+    }

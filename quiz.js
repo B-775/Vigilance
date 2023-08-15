@@ -239,14 +239,5 @@ submitButton.addEventListener("click", function () {
   });
 
 restartButton.addEventListener("click", function () {
-  currentQuestion = 0;
-  score = 0;
-  updateProgressBar();
-  shuffleArray(quizData);
-  showQuestion(currentQuestion);
-  resultElement.textContent = "";
-  quizForm.style.display = "block";
-  prevButton.style.display = "none";
-  nextButton.style.display = "block";
-  restartButton.style.display = "none";
+  chrome.tabs.create({ url: "quiz.html" });
 });
