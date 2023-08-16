@@ -26,7 +26,7 @@ chrome.contextMenus.onClicked.addListener(function (info, tab) {
   }
 });
 
-/*
+
 chrome.contextMenus.create({
   id: "performWhois",
   title: "Effectuer une recherche WHOIS",
@@ -40,4 +40,3 @@ chrome.contextMenus.onClicked.addListener(function (info, tab) {
     chrome.tabs.create({ url: whoisUrl });
   }
 });
-*/
